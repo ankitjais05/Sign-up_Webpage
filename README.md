@@ -1,5 +1,5 @@
 # Web_page
-Web page using HTML and CSS.
+Web page using CSS and HTML.
 
 Sign-up page:
 
