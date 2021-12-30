@@ -7,4 +7,5 @@ Sign-up page:
 
 After sign-up:
 
-![image](https://user-images.githubusercontent.com/96879019/147766336-d615711c-647e-482e-b1ff-6fe7d9da6d80.png)
+![image](https://user-images.githubusercontent.com/96879019/147775290-d8b9db54-22dd-4152-8ea3-af2e4a3cc74d.png)
+
